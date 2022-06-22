@@ -1,0 +1,17 @@
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\102200013_NguyenCongCuong.exe.config
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\102200013_NguyenCongCuong.exe
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\102200013_NguyenCongCuong.pdb
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\EntityFramework.dll
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\EntityFramework.xml
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.csproj.SuggestedBindingRedirects.cache
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\_102200013_NguyenCongCuong.Properties.Resources.resources
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.csproj.GenerateResource.cache
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.csproj.CopyComplete
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.exe
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\102200013_NguyenCongCuong.pdb
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\_102200013_NguyenCongCuong.GUI.NguyenCongCuong_DF.resources
+C:\Users\cuong\OneDrive\Desktop\monan\102200013_NguyenCongCuong\102200013_NguyenCongCuong\obj\Debug\_102200013_NguyenCongCuong.GUI.NguyenCongCuong_MF.resources

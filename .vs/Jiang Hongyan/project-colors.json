@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe772ba6-7c80-4a19-85de-0cf8eacb3a49": {
+      "ProjectGuid": "fe772ba6-7c80-4a19-85de-0cf8eacb3a49",
+      "DisplayName": "Jiang Hongyan",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
